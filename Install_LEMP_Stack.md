@@ -65,6 +65,14 @@ sudo nginx -t
 ```
 If the messages is successful, then restart the nginx:
 ```
+sudo systemctl restart nginx
+```
+or
+```
+sudo service nginx restart
+```
+Then check the status of the nginx
+```
 sudo systemctl status nginx
 ```
 Now enable nginx so that it automatically starts if the server restarts.
