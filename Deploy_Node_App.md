@@ -1,4 +1,5 @@
 # Deploy Node App Using Nginx:
+**Get $100 credit to create, test and run your vps on digitalOcean from [here](https://m.do.co/c/dbeec3f48f6f)**</br>
 **💡You can deploy any node app (template engine app or api app) into your server.**
 >## 🎆 Update Pre-installed packages:
 ```
