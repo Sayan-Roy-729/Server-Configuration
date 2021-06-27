@@ -1,4 +1,5 @@
 ># Deploy Multiple Sites Using Nginx on a VPS:
+**Get $100 credit to create, test and run your vps on digitalOcean from [here](https://m.do.co/c/dbeec3f48f6f)**
 **Prerequisties:**
 - Ubuntu 20.04LTS or 18.04LTS vps
 - You have SSH shell access to your VPS with sudo access user.
