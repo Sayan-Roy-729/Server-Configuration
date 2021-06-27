@@ -1,4 +1,5 @@
 ># Deploy Flask App on VPS:
+**Get $100 credit to create, test and run your vps on digitalOcean from [here](https://m.do.co/c/dbeec3f48f6f)**
 >## Install required packages:
 Update preinstalled packages
 ```
