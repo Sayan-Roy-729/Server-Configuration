@@ -1,5 +1,6 @@
 # 💡💡 Server(VPS) Configuration & Deploy Sites 💡💡
-VPS stands for Virtual Private Server. You can buy VPS from AWS as EC2 Instance or Droplets of DigitalOcean or some other cloud service providers. Here we can see how to manage this and how deploy websites. Here I will use Ubuntu 20.04 LTS VPS.</br>
+VPS stands for Virtual Private Server. You can buy VPS from AWS as EC2 Instance or Droplets of DigitalOcean or some other cloud service providers. Here we can see how to manage this and how deploy websites. Here I will use Ubuntu 20.04 LTS VPS.</br></br>
+**Get $100 credit to create, test and run your vps on digitalOcean from [here](https://m.do.co/c/dbeec3f48f6f)**
 ---
 **⚡ List of this Series:**
 1. [install Lemp Stack](https://github.com/Sayan-Roy-729/Server-Configuration/blob/main/Install_LEMP_Stack.md#install-lemp-stack-into-your-vps)
