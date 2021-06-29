@@ -109,7 +109,8 @@ server {
   # inside location we can serve our static contents like image or pdf etc.
   location / {
     proxy_pass http://localhost:3000
-    try_files $uri $uri/ =404;
+    # try_files $uri $uri/ =404;
+    try_files $uri /index.html;
   }
 }
 ```
