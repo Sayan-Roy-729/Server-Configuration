@@ -74,7 +74,8 @@ server {
   server_name <Your Public IP>;
   # inside location we can serve our static contents like image or pdf etc.
   location / {
-    try_files $uri $uri/ =404;
+    # try_files $uri $uri/ =404;
+    try_files $uri /index.html;
   }
 }
 ```
